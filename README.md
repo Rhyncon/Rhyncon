@@ -2,9 +2,9 @@
 
 **`Front-End Developer | Python | UI Design`**
 
-Meu nome é Rhyncon Soares, tenho 23 anos e sou carioca. Sou desenvolvedor iniciante na área de tecnologia, com foco em desenvolvimento web front-end e Python. Possuo conhecimentos em prototipação de interfaces, HTML e CSS, criando layouts funcionais e acessíveis.
+Olá! Me chamo Rhyncon Soares, desenvolvedor focado em Front-End e Python. Sou carioca, mas atualmente vivo e trabalho em Pernambuco, onde busco unir tecnologia e design para criar experiências digitais que sejam funcionais e acessíveis.
 
-Atualmente atuo na área de tecnologia pela empresa **G4F**, onde iniciei em setembro de 2025. Paralelamente, estou desenvolvendo um projeto de empregabilidade em parceria com uma instituição educacional, com foco na conexão entre talentos e oportunidades. Além do código, sou entusiasta da criação visual.
+Atualmente, faço parte do time da G4F e dedico parte do meu tempo a um projeto social de empregabilidade, ajudando a conectar talentos a novas oportunidades. Além de escrever código, sou um entusiasta da criação visual e do audiovisual, o que me ajuda a ter um olhar mais atento aos detalhes em cada interface que desenvolvo.
 
 <p align="left">
     <a href="https://github.com/Rhyncon?tab=followers"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://www.linkedin.com/in/rhyncon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,6 +29,13 @@ Atualmente atuo na área de tecnologia pela empresa **G4F**, onde iniciei em set
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rhyncon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" />
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rhyncon&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyncon&layout=compact&theme=radical&hide_title=true" />
+    </td>
+  </tr>
+</table>
