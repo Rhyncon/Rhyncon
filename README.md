@@ -35,8 +35,8 @@ Olá! Sou o Rhyncon, um carioca vivendo em Pernambuco. Minha missão é unir **t
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rhyncon&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyncon&layout=compact&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rhyncon&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhyncon&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -49,5 +49,5 @@ Olá! Sou o Rhyncon, um carioca vivendo em Pernambuco. Minha missão é unir **t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" />
 </p>
