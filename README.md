@@ -1,6 +1,10 @@
 # 👨🏻‍💻 Rhyncon Soares
 **Front-End Developer | Python Enthusiast | UI/UX Designer**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=180&section=header&text=Rhyncon%20Soares&fontSize=60&fontAlignY=40&animation=fadeIn" alt="Banner Rhyncon Soares" />
+</p>
+
 Olá! Sou o Rhyncon, um carioca vivendo em Pernambuco. Minha missão é unir **tecnologia** e **design** para criar experiências digitais que sejam funcionais, acessíveis e visualmente marcantes.
 
 * 🚀 Atualmente na **G4F**.
@@ -13,17 +17,17 @@ Olá! Sou o Rhyncon, um carioca vivendo em Pernambuco. Minha missão é unir **t
 
 **Front-End & Scripting**
 <p align="left">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 **Design & Criatividade**
 <p align="left">
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-  <a href="https://www.adobe.com/br/products/photoshop.html"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /></a>
-  <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -45,5 +49,5 @@ Olá! Sou o Rhyncon, um carioca vivendo em Pernambuco. Minha missão é unir **t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
 </p>
